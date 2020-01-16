@@ -7,6 +7,15 @@
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
 	color: #CC00AA;
+	font-variant: small-caps;
+}
+
+.project p {
+	font-variant: small-caps;
+}
+
+#project1 {
+	font-variant: small-caps;
 }
 
 /* this style exists to make it obvious that you've successfully linked
